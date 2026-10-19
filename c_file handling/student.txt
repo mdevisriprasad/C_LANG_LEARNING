@@ -1,0 +1,3 @@
+Today is the last day of C programming!
+I learned and understood C during these 12 days.
+Now I should practice more problems in C to become expert.
